@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "경식장 백준 과제", "경식장 백준 과제.vcxproj", "{063F9785-F475-48F3-9755-C88F0E84ECAF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20006", "..\20006\20006.vcxproj", "{453C4001-395A-49F8-9E88-F2215DC582D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{063F9785-F475-48F3-9755-C88F0E84ECAF}.Release|x64.Build.0 = Release|x64
 		{063F9785-F475-48F3-9755-C88F0E84ECAF}.Release|x86.ActiveCfg = Release|Win32
 		{063F9785-F475-48F3-9755-C88F0E84ECAF}.Release|x86.Build.0 = Release|Win32
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Debug|x64.ActiveCfg = Debug|x64
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Debug|x64.Build.0 = Debug|x64
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Debug|x86.Build.0 = Debug|Win32
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Release|x64.ActiveCfg = Release|x64
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Release|x64.Build.0 = Release|x64
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Release|x86.ActiveCfg = Release|Win32
+		{453C4001-395A-49F8-9E88-F2215DC582D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
