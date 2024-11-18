@@ -105,5 +105,8 @@
     <ClCompile Include="백준_20006.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="백준_20006%28함수 분리%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
