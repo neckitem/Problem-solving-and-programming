@@ -1,9 +1,10 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int arr[100][100] = { 0, };
 	int num, x, y, i, j, k, area = 0;
-	scanf_s("%d", &num);
+	scanf("%d", &num);
 
 	for (i = 0; i < num; i++) {
 		scanf_s("%d %d", &x, &y);
